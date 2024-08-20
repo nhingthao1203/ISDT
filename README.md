@@ -50,3 +50,14 @@ Contributions are welcome! Please follow the guidelines below:
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
+   
+#How to install and run the program
+1. Go to DATABASE folder --> run file QuanLyHocSinh.sql
+2. Go to SSMS and log in with SQL Server Authentication (username and password)
+![image](https://github.com/user-attachments/assets/54a8319c-ac4f-490d-a4f1-2ac066680465)
+3. Run the command lines of the file to create the database - remember connection string
+4. Run the program with the file QuanLyHocSinh.sln
+5. Go to DAO folder --> select DataProvider --> replace ConnectionString with the correct Database name and computer name
+6. Run the program --> login to use (Accounts are stored in the NGUOIDUNG table)
+![image](https://github.com/user-attachments/assets/4ded9870-3fcf-4ba7-944d-ad46708ba1bb)
+
