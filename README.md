@@ -51,7 +51,7 @@ Contributions are welcome! Please follow the guidelines below:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
    
-#How to install and run the program
+## How to install and run the program
 1. Go to DATABASE folder --> run file QuanLyHocSinh.sql
 2. Go to SSMS and log in with SQL Server Authentication (username and password)
 ![image](https://github.com/user-attachments/assets/54a8319c-ac4f-490d-a4f1-2ac066680465)
